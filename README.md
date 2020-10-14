@@ -1,8 +1,8 @@
 # **Juego BlackJack | JavaScript**
 
-![BlackJack](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1601948681/blackjack-js-1_vctykf.png "BlackJack")
+![BlackJack](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1601948681/GitHub/blackjack-js-1_vctykf.png "BlackJack")
 
-![BlackJack](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1601948681/blackjack-js-2_echvhp.png "BlackJack")
+![BlackJack](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1601948681/GitHub/blackjack-js-2_echvhp.png "BlackJack")
 
 ### **¿Como jugar?**
 
